@@ -1,9 +1,7 @@
 import sys
-import matplotlib
-matplotlib.use('Agg')
+import matplotlib matplotlib.use('Agg')
 
-import matplotlib.pyplot as plt
-from sklearn.neighbors 
+import matplotlib.pyplot as plt from sklearn.neighbors 
 import KNeighborsClassifier
 
 x = [4, 5, 10, 4, 3, 11, 14 , 8, 10, 12]
