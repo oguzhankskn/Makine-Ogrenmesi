@@ -3,7 +3,8 @@ import matplotlib
 matplotlib.use('Agg')
 
 import matplotlib.pyplot as plt
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.neighbors 
+import KNeighborsClassifier
 
 x = [4, 5, 10, 4, 3, 11, 14 , 8, 10, 12]
 y = [21, 19, 24, 17, 16, 25, 24, 22, 21, 21]
